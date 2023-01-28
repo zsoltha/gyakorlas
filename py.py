@@ -14,7 +14,7 @@ elif val < 5:
 elif val < 7 :
     print(f'Elég sok esély van, hogy meg fog történni de még mindig nem 100% ')
 elif val < 9 :
-    print('A gép azt mondja nagyon kevés az esélye, hogy nem válik valóra')
+    print('Nagyon sok rá az esély')
 else:
     print(f'Szerecsés vagy mert az a dolog amit beírtál 100% hogy meg fog történni')
 

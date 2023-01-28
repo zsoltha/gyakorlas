@@ -17,5 +17,3 @@ elif val < 9 :
     print('Nagyon sok rá az esély')
 else:
     print(f'Szerecsés vagy mert az a dolog amit beírtál 100% hogy meg fog történni')
-
-

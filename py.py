@@ -6,7 +6,7 @@ em:int = input('Miben szeretnéd megtudni a szerencséd: ')
 val = random.randint(0,10)
 
 if val == 0 :
-    print('Semmi esélyel')
+    print('Semmi eséllyel')
 elif val < 3 :
     print('Hát a gép nem sok eséyt látt, hogy megfog történni')
 elif val < 5:
